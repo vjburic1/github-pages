@@ -1,3 +1,3 @@
 title: "Welcome to my website!"
-author: vjburic1@gmail.com
+author: vjburic1
 description: "Hope you enjoy your stay."
